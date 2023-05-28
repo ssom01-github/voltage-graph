@@ -1,0 +1,49 @@
+#dataset{
+    font-size: 20px;
+    font-weight:bold
+}
+.container{
+    background-color: rgb(235, 192, 237);
+}
+
+table, th, td {
+    margin-top: 20px;
+    margin-left: 500px;
+    border: 1px solid;
+    width: 200px;
+    height: 30px;
+
+  }
+  #dataset{
+    margin: 20px;
+  }
+  .slidecontainer{
+    margin: 20px;
+  }
+  #btn{
+    margin: 15px 20px 20px 20px; 
+    padding: 4px 25px; 
+    background-color: rgb(198, 105, 230);
+     color: aliceblue;
+      border-radius: 3px; 
+       text-decoration: none;
+       font-size: 20px;
+        box-shadow: rgb(5, 34, 31);
+  }
+  
+  
+  
+  
+  #btn2{
+    margin: 15px 20px 20px 20px; 
+    padding: 4px 25px; 
+    background-color: rgb(198, 105, 230);
+     color: aliceblue;
+      border-radius: 3px; 
+       text-decoration: none;
+       font-size: 20px;
+        box-shadow: rgb(5, 34, 31);
+    margin-left: 550px;
+    margin-top: 54px;
+  }
+  
